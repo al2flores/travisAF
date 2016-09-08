@@ -156,6 +156,7 @@ class ColaArreglo{
             }
             System.out.println("numero de datos es:"+cont);
             System.out.println("ALDO FLORES");
+            System.out.println("INGENIERIA DE SOFTWARE 2");
 	}
 
 	}
