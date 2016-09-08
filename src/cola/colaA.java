@@ -155,6 +155,7 @@ class ColaArreglo{
                 Ingresar(desplazar2);
             }
             System.out.println("numero de datos es:"+cont);
+            System.out.println("ALDO FLORES");
 	}
 
 	}
